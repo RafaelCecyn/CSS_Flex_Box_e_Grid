@@ -1,6 +1,11 @@
-# Guia de estilos
+# Curso de CSS com Flexbox e Grid
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelCecyn/CSS_Flex_Box_e_Grid/blob/master/LICENSE) 
 
-Toda a estilização que será usada no projeto dentro do figma.
+# Sobre o projeto
+
+## Guia de estilos
+
+Toda a estilização usada no projeto está dentro do figma.
 
 [Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
 
@@ -101,3 +106,13 @@ Largura máxima do conteúdo principal: `1120px`
 Largura máxima de um cartão desktop: `256px`
 
 Altura mínima de um cartão: `320px`
+
+# Tecnologias utilizadas
+## Front end
+- HTML / CSS 
+
+# Autor
+
+Rafael Cecyn Mendes
+
+https://www.linkedin.com/in/rafaelcecynmendes/
