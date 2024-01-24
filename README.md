@@ -2,6 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelCecyn/CSS_Flex_Box_e_Grid/blob/master/LICENSE) 
 
 # Sobre o projeto
+Este é meu repositório para o curso CSS: Dispondo Elementos com Flexbox e Grid da Alura
 
 ## Guia de estilos
 
